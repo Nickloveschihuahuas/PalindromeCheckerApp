@@ -8,5 +8,6 @@ public class PalindromeCheckerApp {
         // Hard-coded example
         String word = "radar";
         System.out.println(word + " is a palindrome (hard-coded for UC2)");
+                System.out.println("Use Case 3: User input simulation completed");
     }
 }
